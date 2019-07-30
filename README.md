@@ -1,2 +1,3 @@
-# zwave
-A ZWave library to operate serial-port connected ZWave antenas.
+# Z-Wave
+
+A Z-Wave library to operate serial-port connected Z-Wave antenas.
